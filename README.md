@@ -14,6 +14,12 @@ range is actually correct rather than merely permitted.
 It also stops apps waking you: per-app permissions, quiet hours, and a
 watcher for the "we miss you" kind of notification. No Xposed anywhere.
 
+**[Lost Xposed](https://github.com/uraniam9/lost-xposed)** doesn't fit the theme above — it's a general LSPosed toolbox, not a
+calm one. A status bar clock you actually compose, per-app display density,
+notification rules that block a message before it reaches your tray. Alpha,
+and every feature says on its own card whether it has actually been tested on
+a phone yet.
+
 ---
 
 The thing I keep coming back to is that a phone screen is built for daylight
